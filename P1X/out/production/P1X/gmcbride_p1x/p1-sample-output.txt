@@ -1,0 +1,176 @@
+Welcome to TicTacToe!
+
+
+
+    0  1  2
+  0  |  |  |
+   ---------
+  1  |  |  |
+   ---------
+  2  |  |  |
+   ---------
+X, it is your turn.
+Which row? 0
+Which column? 0
+
+
+    0  1  2
+  0 X|  |  |
+   ---------
+  1  |  |  |
+   ---------
+  2  |  |  |
+   ---------
+O, it is your turn.
+Which row? 0
+Which column? 1
+
+
+    0  1  2
+  0 X| O|  |
+   ---------
+  1  |  |  |
+   ---------
+  2  |  |  |
+   ---------
+X, it is your turn.
+Which row? 1
+Which column? 10
+Bad location, try again...
+
+
+    0  1  2
+  0 X| O|  |
+   ---------
+  1  |  |  |
+   ---------
+  2  |  |  |
+   ---------
+X, it is your turn.
+Which row? 1
+Which column? 1
+
+
+    0  1  2
+  0 X| O|  |
+   ---------
+  1  | X|  |
+   ---------
+  2  |  |  |
+   ---------
+O, it is your turn.
+Which row? 2
+Which column? 2
+
+
+    0  1  2
+  0 X| O|  |
+   ---------
+  1  | X|  |
+   ---------
+  2  |  | O|
+   ---------
+X, it is your turn.
+Which row? 1
+Which column? 2
+
+
+    0  1  2
+  0 X| O|  |
+   ---------
+  1  | X| X|
+   ---------
+  2  |  | O|
+   ---------
+O, it is your turn.
+Which row? 1
+Which column? 0
+
+
+    0  1  2
+  0 X| O|  |
+   ---------
+  1 O| X| X|
+   ---------
+  2  |  | O|
+   ---------
+X, it is your turn.
+Which row? 2
+Which column? 1
+
+
+    0  1  2
+  0 X| O|  |
+   ---------
+  1 O| X| X|
+   ---------
+  2  | X| O|
+   ---------
+O, it is your turn.
+Which row? 2
+Which column? 1
+Bad location, try again...
+
+
+    0  1  2
+  0 X| O|  |
+   ---------
+  1 O| X| X|
+   ---------
+  2  | X| O|
+   ---------
+O, it is your turn.
+Which row? 2
+Which column? 0
+
+
+    0  1  2
+  0 X| O|  |
+   ---------
+  1 O| X| X|
+   ---------
+  2 O| X| O|
+   ---------
+X, it is your turn.
+Which row? 0
+Which column? 2
+No winner - it was a tie!
+
+
+    0  1  2
+  0 X| O| X|
+   ---------
+  1 O| X| X|
+   ---------
+  2 O| X| O|
+   ---------
+
+
+Game Stats
+X has won 0 games.
+O has won 0 games.
+There have been 1 tie games.
+Do you want to play again? y
+
+
+    0  1  2
+  0  |  |  |
+   ---------
+  1  |  |  |
+   ---------
+  2  |  |  |
+   ---------
+O, it is your turn.
+Which row? 0
+Which column? 0
+
+
+    0  1  2
+  0 O|  |  |
+   ---------
+  1  |  |  |
+   ---------
+  2  |  |  |
+   ---------
+X, it is your turn.
+... etc.
